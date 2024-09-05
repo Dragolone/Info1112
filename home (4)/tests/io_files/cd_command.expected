@@ -1,0 +1,4 @@
+/home/tests
+/home
+cd: no such file or directory: /nonexistent_dir
+/home

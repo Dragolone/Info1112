@@ -1,0 +1,3 @@
+var MY_VAR Hello
+echo ${MY_VAR} World
+exit

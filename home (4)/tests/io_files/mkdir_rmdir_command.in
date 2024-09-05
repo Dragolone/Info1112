@@ -1,0 +1,5 @@
+mkdir new_directory
+ls -m
+rmdir new_directory
+ls -m
+exit

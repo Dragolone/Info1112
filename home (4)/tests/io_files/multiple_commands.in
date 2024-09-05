@@ -1,0 +1,4 @@
+pwd
+echo "Testing"
+ls -m
+exit

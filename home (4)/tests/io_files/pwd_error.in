@@ -1,0 +1,3 @@
+pwd -invalid_option
+pwd
+exit

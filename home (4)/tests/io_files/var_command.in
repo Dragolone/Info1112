@@ -1,0 +1,4 @@
+var MY_VAR HelloWorld
+echo ${MY_VAR}
+var INVALID_VAR-1 value
+exit

@@ -1,0 +1,7 @@
+touch test_file.sh
+chmod 000 test_file.sh
+ls -l test_file.sh
+chmod 777 test_file.sh
+ls -l test_file.sh
+rm test_file.sh
+exit
